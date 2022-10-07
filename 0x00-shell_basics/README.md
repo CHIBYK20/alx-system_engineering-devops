@@ -1,1 +1,1 @@
-0x00-shell_basics
+Thisscripte pwd print the current working directory
